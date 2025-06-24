@@ -30,15 +30,5 @@ A sleek mobile application built using **React Native** and **Firebase** that of
 |-------|------|
 | ![Screenshot1](/Login.jpeg) | ![Screenshot2](/Menu.jpeg) |
 
-| Dashboard | Profile |
-|-----------|---------|
-| ![Screenshot3](assets/screenshot3.jpeg) | ![Screenshot4](assets/screenshot4.jpeg) |
 
-| Settings | Notifications |
-|-----------|---------------|
-| ![Screenshot5](assets/screenshot5.jpeg) | ![Screenshot6](assets/screenshot6.jpeg) |
-
-| Search | About |
-|--------|-------|
-| ![Screenshot7](assets/screenshot7.jpeg) | ![Screenshot8](assets/screenshot8.jpeg) |
 
