@@ -28,7 +28,7 @@ A sleek mobile application built using **React Native** and **Firebase** that of
 
 | Login | Home |
 |-------|------|
-| ![Screenshot1](assets/screenshot1.jpeg) | ![Screenshot2](assets/screenshot2.jpeg) |
+| ![Screenshot1](/Login.jpeg) | ![Screenshot2](/Menu.jpeg) |
 
 | Dashboard | Profile |
 |-----------|---------|
